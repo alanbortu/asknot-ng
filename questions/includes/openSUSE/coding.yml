@@ -1,0 +1,25 @@
+tree:
+  children:
+    - title: Ruby
+      subtitle: hashrockets and bare words
+      segue1: a dynamic, reflective, object-oriented, general-purpose programming language
+      segue2: Why not try...
+      children: coding/ruby.yml
+
+    - title: C++
+      subtitle: imperative and object-oriented with the power of low-level memory manipulation
+      segue1: So, you're not happy if your error messages are comprehensible?  We have a place for you.
+      segue2: Try digging into...
+      children: coding/c++.yml
+
+    - title: Python
+      subtitle: a dynamic language for rapid development
+      segue1: So, you enjoy traceback-driven development?  What could go wrong?
+      segue2: Are you interested in hacking on...
+      children: coding/python.yml
+      
+    - title: Perl
+      subtitle: a high-level, general-purpose, interpreted, dynamic programming language
+      segue1: So you like dollar signs, but don't want to use PHP? That's cool, we all get tired of understanding code sometimes.
+      segue2: You can work on...
+      children: coding/perl.yml

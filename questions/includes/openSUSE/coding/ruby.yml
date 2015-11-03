@@ -1,0 +1,23 @@
+tree:
+  children:
+    - title: YaST
+      subtitle: the installation and configuration tool for openSUSE
+      href: https://yast.github.io/contributing.html
+    
+    - title: OBS
+      subtitle: the system used to build and distribute binary packages in an automatic, consistent and reproducible way
+      href: https://github.com/openSUSE/open-build-service/blob/master/CONTRIBUTING.md
+
+    - title: software-o-o
+      subtitle: the site behind software.opensuse.org
+      href: https://github.com/openSUSE/software-o-o
+    
+    - title: OSEM
+      subtitle: event management tool tailored to Free and Open Source Software conferences
+      href: https://github.com/openSUSE/osem/blob/master/CONTRIBUTING.md
+      
+    - title: travel-support-program
+      subtitle: A rails app to support the travel support program of openSUSE
+      href: https://github.com/openSUSE/travel-support-program
+      
+      

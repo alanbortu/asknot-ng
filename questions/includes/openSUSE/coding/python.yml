@@ -1,0 +1,13 @@
+tree:
+  children:
+    - title: osc
+      subtitle: the command line interface to work with the openSUSE Build Service
+      href: https://github.com/openSUSE/osc
+
+    - title: libzypp-bindings
+      subtitle: zypp bindings for scripting languages
+      href: https://github.com/openSUSE/libzypp-bindings
+
+    - title: planet-o-o
+      subtitle: the software that powers planet.opensuse.org
+      href: https://github.com/openSUSE/planet.opensuse.org

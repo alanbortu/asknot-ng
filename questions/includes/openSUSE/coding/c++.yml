@@ -1,0 +1,13 @@
+tree:
+  children:
+    - title: Snapper
+      subtitle: manage filesystem snapshots and undo system modifications
+      href: https://github.com/openSUSE/snapper
+
+    - title: zypper
+      subtitle: world's most powerful command line package manager
+      href: https://en.opensuse.org/openSUSE:Zypper_development
+
+    - title: libzypp
+      subtitle: zypp Package Management library
+      href: https://en.opensuse.org/Portal:Libzypp
