@@ -3,3 +3,7 @@ tree:
     - title: kiwi
       subtitle: KIWI OS Image builder
       href: https://github.com/openSUSE/kiwi
+      
+    - title: OBS
+      subtitle: the system used to build and distribute binary packages in an automatic, consistent and reproducible way
+      href: https://github.com/openSUSE/open-build-service/blob/master/CONTRIBUTING.md
